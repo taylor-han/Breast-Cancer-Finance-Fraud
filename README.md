@@ -1,4 +1,4 @@
-# Breast-Cancer-Finance-Fraud
+# Applications of Supervised Machine Learning Algorithms in Finance and Health Science
  Supervised machine learning algorithms have been
 acknowledged for demonstrating their strengths in predicting
 outputs given original inputs. This project attempts to reproduce
